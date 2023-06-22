@@ -1,4 +1,7 @@
-
+/* 1.Developed a graphical user interface (GUI) for a Hotel Management System.
+   2.Implemented buttons, text fields, and data entry/display functionalities.
+   3.Created classes to represent entities such as Room Details, Room Booking, Order Food, and Exit.
+   4.Utilized event handling mechanisms provided by Java Swing to capture and respond to user actions */
 package game;
 
 import java.util.Scanner;
